@@ -1,0 +1,10 @@
+export const GET_EVENTS = "GET_EVENTS";
+export const DELETE_EVENT = "DELETE_EVENT";
+export const ADD_EVENT = "ADD_EVENT";
+export const UPDATE_EVENT = "UPDATE_EVENT";
+export const GET_EVENT = "GET_EVENT";
+export const ADD_USER = "ADD_USER";
+export const GET_USERS = "GET_USERS";
+export const LOGGED_USER = "LOGGED_USER";
+export const LOGGED_IN = "LOGGED_IN";
+export const GET_USER_EVENTS = "GET_USER_EVENTS";
